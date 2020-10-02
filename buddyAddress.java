@@ -22,4 +22,5 @@ public class buddyAddress {
         }
         return false;
     }
+    // test comment as part of step 16 of lab instructions
 }
