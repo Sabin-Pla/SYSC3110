@@ -22,5 +22,8 @@ public class buddyAddress {
         }
         return false;
     }
-    // test comment as part of step 16 of lab instructions
+
+    public void newMethod() {
+        System.out.println("Woah a new method");
+    }
 }
