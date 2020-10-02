@@ -22,4 +22,8 @@ public class buddyAddress {
         }
         return false;
     }
+
+    public void newMethod() {
+        System.out.println("Woah a new method");
+    }
 }
